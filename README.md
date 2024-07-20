@@ -21,3 +21,5 @@ Checkout content from bare repo:
 Do not show untracked fiels:
 
 ``` dots config --local status.showUntrackedFiles no ```
+
+![alt text](https://i.imgur.com/iDUIPfb.png)
